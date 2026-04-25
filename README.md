@@ -105,7 +105,7 @@ mhk = Developer()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=header&text=Technology%20Arsenal&fontSize=30" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,postgres,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,postgres,docker,git,linux,github,html,css,c,oracle&theme=dark" />
 </p>
 
 ---
