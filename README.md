@@ -3,7 +3,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://i.imgur.com/0MAtmBh.png" />
+  <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
   <br><br>
   <a href="https://discord.com/users/1407010812081475757">
     <img src="https://lanyard.cnrad.dev/api/1407010812081475757?showDisplayName=true&theme=dark" />
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/0MAtmBh.png" />
+  <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=BUILDING+REAL+PRODUCTS.;EXECUTING+REAL+IDEAS.;BARBAROSSA+%7C+AI+%7C+SAAS." alt="Typing SVG" />
 </div>
 
@@ -22,14 +22,14 @@
 <br />
 
 <h3 align="center">
-  <img src="https://i.imgur.com/0MAtmBh.png" />
+  <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
   <br><br>
    System Architect |  Python Expert |  Discord Power-User
   <br><br>
   <p align="center" style="font-size: 16px; color: #00FFFF;">
     "Understanding is one thing. Execution is everything."
   </p>
-  <img src="https://i.imgur.com/0MAtmBh.png" />
+  <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=header&text=System%20Status&fontSize=30" />
@@ -73,10 +73,10 @@ mhk = Developer()
 
 <div align="center">
   <a href="https://scribe-azure.vercel.app/">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=MHK-123&repo=Scribe&theme=dark&border_color=00FFFF&title_color=00FFFF" />
+    <img src="https://img.shields.io/badge/LIVE%20PROJECT-SCRIBE%20VC-00FFFF?style=for-the-badge&logo=react&logoColor=black" />
   </a>
   <a href="https://subscription-jlea.onrender.com/">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=MHK-123&repo=Dungeon-Premium&theme=dark&border_color=00FFFF&title_color=00FFFF" />
+    <img src="https://img.shields.io/badge/LIVE%20PROJECT-DUNGEON%20SUBS-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black" />
   </a>
 </div>
 
@@ -86,7 +86,7 @@ mhk = Developer()
   <table width="100%" style="background-color: #0d1117; border: 1px solid #00FFFF; border-radius: 10px;">
     <tr>
       <td width="30%" align="center">
-        <img src="https://i.imgur.com/0MAtmBh.png" width="80" />
+        <img src="https://raw.githubusercontent.com/MHK-123/MHK/main/mhk_github_header.png" alt="MHK Header" width="100%" />
       </td>
       <td width="70%">
         <h3>🏰 Dungeon Community</h3>
@@ -123,10 +123,6 @@ mhk = Developer()
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MHK-123&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHK-123&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MHK-123&theme=dark&border_color=00FFFF&title_color=00FFFF&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
