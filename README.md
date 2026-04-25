@@ -1,10 +1,13 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MHK-123/MHK/main/mhk_github_header.png" alt="MHK Header" width="100%" />
+</div>
+
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=150&section=header&text=MH K&fontSize=70&fontColor=ffffff" />
 </h3>
 
 <div align="center">
   <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-  <br><br>
   <a href="https://discord.com/users/1407010812081475757">
     <img src="https://lanyard.cnrad.dev/api/1407010812081475757?showDisplayName=true&theme=dark" />
   </a>
@@ -86,7 +89,7 @@ mhk = Developer()
   <table width="100%" style="background-color: #0d1117; border: 1px solid #007BFF; border-radius: 10px;">
     <tr>
       <td width="30%" align="center">
-        <img src="https://raw.githubusercontent.com/MHK-123/MHK/main/mhk_github_header.png" alt="MH K Header" width="100%" />
+        <img src="https://github.com/MHK-123.png" width="120" style="border-radius: 50%;" />
       </td>
       <td width="70%">
         <h3>🏰 Dungeon Community</h3>
