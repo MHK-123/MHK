@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=150&section=header&text=MHK&fontSize=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=150&section=header&text=MH K&fontSize=70&fontColor=ffffff" />
 </h3>
 
 <div align="center">
@@ -44,13 +44,13 @@
 </p>
 
 <details open>
-<summary>⚡ <b>MHK.py — System Logic</b></summary>
+<summary>⚡ <b>MH K.py — System Logic</b></summary>
 <br>
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Mohd Hussain (MHK) / Barbarossa"
+        self.name = "Mohd Hussain (MH K) / Barbarossa"
         self.focus = "AI/ML & Scalable SaaS"
         self.mindset = "Build first. Monetize early. Scale fast."
         self.tech_stack = {
@@ -86,7 +86,7 @@ mhk = Developer()
   <table width="100%" style="background-color: #0d1117; border: 1px solid #007BFF; border-radius: 10px;">
     <tr>
       <td width="30%" align="center">
-        <img src="https://raw.githubusercontent.com/MHK-123/MHK/main/mhk_github_header.png" alt="MHK Header" width="100%" />
+        <img src="https://raw.githubusercontent.com/MHK-123/MHK/main/mhk_github_header.png" alt="MH K Header" width="100%" />
       </td>
       <td width="70%">
         <h3>🏰 Dungeon Community</h3>
