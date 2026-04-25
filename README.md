@@ -117,7 +117,7 @@ mhk = Developer()
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MHK-123&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHK-123&layout=compact&hide_border=true&title_color=007BFF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHK-123&layout=compact&hide_border=true&title_color=007BFF&text_color=c9d1d9&bg_color=0d1117&count_private=true" />
 </div>
 
 <div align="center">
