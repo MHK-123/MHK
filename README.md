@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MHK-123/MHK-123/main/mhk_github_header.png" alt="MHK Header" width="100%" height="250" style="object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/MHK-123/MHK-123/main/mhk_github_header.png" alt="MHK Header" width="800" />
 </div>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header&text=MH K&fontSize=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header&text=MH%20K&fontSize=60&fontColor=ffffff" />
 </h3>
 
 <div align="center">
