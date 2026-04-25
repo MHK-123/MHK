@@ -12,7 +12,7 @@
 
 <div align="center">
   <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=900&height=200&lines=BUILDING+REAL+PRODUCTS.;EXECUTING+REAL+IDEAS.;BARBAROSSA+%7C+AI+%7C+SAAS." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=900&height=200&lines=BUILDING+REAL+PRODUCTS.;EXECUTING+REAL+IDEAS.;MHK+%7C+AI+%7C+SAAS." alt="Typing SVG" />
 </div>
 
 <div align="center">
