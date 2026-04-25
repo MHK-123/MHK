@@ -130,7 +130,9 @@ mhk = Developer()
 </div>
 
 <div align="center">
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MHK-123&bg_color=0D1117&color=007BFF&line=007BFF&point=ffffff&area=true&hide_border=true)](https://github.com/MHK-123/MHK)
+  <a href="https://github.com/MHK-123/MHK">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MHK-123&bg_color=0D1117&color=007BFF&line=007BFF&point=ffffff&area=true&hide_border=true" width="100%" />
+  </a>
 </div>
 
 <div align="center">
